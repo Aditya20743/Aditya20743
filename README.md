@@ -2,7 +2,9 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://Aditya20743.io)
 <h1 align="center">Hi 👋, I'm Aditya Khadekar</h1>
 <h3 align="center">A Passionate Programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/A5eDh9nWrqYAAAAC/working-from.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/thoughtworks-gif_dribbble.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya20743&label=Profile%20views&color=0e75b6&style=flat" alt="aditya20743" /> </p>
 
