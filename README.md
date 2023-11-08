@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Projects, DSA**
 
-- 🌱 I’m currently learning **Blockchain Development**
-
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- 👯 I’m looking for  **Software Development Roles**
 
 - 💬 Ask me about **MERN Stack, DSA, Computer Science Fundamentals.**
 
