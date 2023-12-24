@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aditya_khadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_khadekar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya khadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya khadekar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-khadekar-a583b7203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya khadekar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_adams_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_adams_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/khadekaraditya20743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khadekaraditya20743" height="30" width="40" /></a>
 </p>
