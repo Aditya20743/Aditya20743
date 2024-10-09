@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Aditya Khadekar</h1>
-<h3 align="center">A Passionate Programmer from India</h3>
+<h3 align="center">A Passionate Programmer </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/thoughtworks-gif_dribbble.gif">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya20743&label=Profile%20views&color=0e75b6&style=flat" alt="aditya20743" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects, DSA**
+- 🔭 I’m currently working on **MERN Stack Projects, Java, System Design, DSA**
 
 - 👯 I’m looking for  **Software Development Roles**
 
